@@ -7,29 +7,29 @@
 </br>
 
 <p align="center"> 
-<a href="https://github.com/DP-Hridayan/aShellYou/stargazers">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/DP-Hridayan/aShellYou?style=for-the-badge&logo=github&label=Stars" />
+<a href="https://github.com/dwinkoedits-ops/aShellYou/stargazers">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/dwinkoedits-ops/aShellYou?style=for-the-badge&logo=github&label=Stars" />
   </a>
-  <a href="https://github.com/DP-Hridayan/aShellYou/forks">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/DP-Hridayan/aShellYou?style=for-the-badge&logo=github&label=Forks" />
+  <a href="https://github.com/dwinkoedits-ops/aShellYou/forks">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/dwinkoedits-ops/aShellYou?style=for-the-badge&logo=github&label=Forks" />
   </a>
-  <a href="https://github.com/DP-Hridayan/aShellYou/issues">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/DP-Hridayan/aShellYou?style=for-the-badge&logo=github&label=Issues" />
+  <a href="https://github.com/dwinkoedits-ops/aShellYou/issues">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/dwinkoedits-ops/aShellYou?style=for-the-badge&logo=github&label=Issues" />
   </a>
-  <a href="https://github.com/DP-Hridayan/aShellYou/releases/latest">
-    <img alt="GitHub release" src="https://img.shields.io/github/v/release/DP-Hridayan/aShellYou?style=for-the-badge&logo=github&label=Release" />
+  <a href="https://github.com/dwinkoedits-ops/aShellYou/releases/latest">
+    <img alt="GitHub release" src="https://img.shields.io/github/v/release/dwinkoedits-ops/aShellYou?style=for-the-badge&logo=github&label=Release" />
   </a>
     <a href="https://shields.rbtlog.dev/in.hridayan.ashell">
     <img alt="GitHub release" src="https://shields.rbtlog.dev/simple/in.hridayan.ashell?style=for-the-badge" />
   </a>
-  <a href="https://github.com/DP-Hridayan/aShellYou/releases">
-    <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/DP-Hridayan/aShellYou/total?style=for-the-badge&logo=download&label=Downloads" />
+  <a href="https://github.com/dwinkoedits-ops/aShellYou/releases">
+    <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/dwinkoedits-ops/aShellYou/total?style=for-the-badge&logo=download&label=Downloads" />
   </a>
-  <a href="https://github.com/DP-Hridayan/aShellYou/graphs/contributors">
-    <img alt="Contributors" src="https://img.shields.io/github/contributors/DP-Hridayan/aShellYou?style=for-the-badge&logo=github&label=Contributors" />
+  <a href="https://github.com/dwinkoedits-ops/aShellYou/graphs/contributors">
+    <img alt="Contributors" src="https://img.shields.io/github/contributors/dwinkoedits-ops/aShellYou?style=for-the-badge&logo=github&label=Contributors" />
   </a>
-  <a href="https://github.com/DP-Hridayan/aShellYou/blob/main/LICENSE">
-    <img alt="License" src="https://img.shields.io/github/license/DP-Hridayan/aShellYou?style=for-the-badge&logo=open-source-initiative&label=License" />
+  <a href="https://github.com/dwinkoedits-ops/aShellYou/blob/main/LICENSE">
+    <img alt="License" src="https://img.shields.io/github/license/dwinkoedits-ops/aShellYou?style=for-the-badge&logo=open-source-initiative&label=License" />
   </a>
 </p>
 
@@ -142,14 +142,14 @@
 
 >[!TIP]
 >
-> Please visit our **[Wiki](https://github.com/DP-Hridayan/aShellYou/wiki)** for instructions/setup-guides
+> Please visit our **[Wiki](https://github.com/dwinkoedits-ops/aShellYou/wiki)** for instructions/setup-guides
 
 </br>
 
 ## Resources & Links
 
 <p align="start">
-  <a href="https://github.com/DP-Hridayan/aShellYou/releases/latest/">
+  <a href="https://github.com/dwinkoedits-ops/aShellYou/releases/latest/">
     <img src="assets/github.png" width="130" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
@@ -160,8 +160,8 @@
     <img src="assets/fdroid.png" width="130" alt="F-Droid" />
   </a>
   <br/><br/>
-  <a href="patreon.com/ChrisH4x">
-    <img src="https://github.com/DP-Hridayan/aShellYou/assets/157479796/d0ad79e4-a19e-4686-9f30-dc1cb1e85168" width="200" alt="Buy Me a Coffee" />
+  <a href="https://patreon.com/ChrisH4x">
+    <img src="https://github.com/dwinkoedits-ops/aShellYou/assets/157479796/d0ad79e4-a19e-4686-9f30-dc1cb1e85168" width="200" alt="Buy Me a Coffee" />
   </a></p>
 
   </br>
