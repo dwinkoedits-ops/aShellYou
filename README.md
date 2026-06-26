@@ -237,7 +237,7 @@
 ## License
 
 ```
-Designed and developed by DP Hridayan @2024
+Designed and developed by ChrisH4x @2026
 This project is licensed under the GNU General Public License v3.0
 ```
 >[!NOTE]
@@ -247,7 +247,7 @@ This project is licensed under the GNU General Public License v3.0
 </br>
 
 ## Contributors
-<a href="https://github.com/dp-hridayan/ashellyou/graphs/contributors">
+<a href="https://github.com/dwinkoedits-ops/ashellyou/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dp-hridayan/ashellyou" />
 </a>
 </br>
