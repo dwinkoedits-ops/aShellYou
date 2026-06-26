@@ -160,11 +160,7 @@
     <img src="assets/fdroid.png" width="130" alt="F-Droid" />
   </a>
   <br/><br/>
-  <a href="https://t.me/aShellYou">
-    <img src="assets/telegram.png" width="180" alt="Join Telegram" />
-  </a>
-  <br/><br/>
-  <a href="https://www.buymeacoffee.com/Hridayan">
+  <a href="patreon.com/ChrisH4x">
     <img src="https://github.com/DP-Hridayan/aShellYou/assets/157479796/d0ad79e4-a19e-4686-9f30-dc1cb1e85168" width="200" alt="Buy Me a Coffee" />
   </a></p>
 
@@ -248,6 +244,6 @@ This project is licensed under the GNU General Public License v3.0
 
 ## Contributors
 <a href="https://github.com/dwinkoedits-ops/ashellyou/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=dp-hridayan/ashellyou" />
+  <img src="https://contrib.rocks/image?repo=dwinkoedits-ops/ashellyou" />
 </a>
 </br>
